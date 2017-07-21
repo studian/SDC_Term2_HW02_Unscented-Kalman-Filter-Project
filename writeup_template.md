@@ -15,10 +15,10 @@ This project involves the Term 2 Simulator which can be downloaded **Ver 1.45**.
 
 **My build environments are use to `cmake` in the `Ubuntu 16.04`.**
 
-I modified files as follows :
-* ukf.h
-* ukf.cpp
-* tools.cpp
+**I modified files as follows :**
+* `ukf.h`
+* `ukf.cpp`
+* `tools.cpp`
 
 This repository includes two files that can be used to set up and intall [uWebSocketIO](https://github.com/uWebSockets/uWebSockets) for either Linux or Mac systems. For windows you can use either Docker, VMware, or even [Windows 10 Bash on Ubuntu](https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/) to install uWebSocketIO. Please see [this concept in the classroom](https://classroom.udacity.com/nanodegrees/nd013/parts/40f38239-66b6-46ec-ae68-03afd8a601c8/modules/0949fca6-b379-42af-a919-ee50aa304e6a/lessons/f758c44c-5e40-4e01-93b5-1a82aa4e044f/concepts/16cf4a78-4fc7-49e1-8621-3450ca938b77) for the required version and installation scripts.
 
